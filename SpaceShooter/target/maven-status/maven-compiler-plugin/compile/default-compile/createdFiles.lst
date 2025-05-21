@@ -1,0 +1,5 @@
+com\mycompany\spaceshooter\Bullet.class
+com\mycompany\spaceshooter\Enemy.class
+com\mycompany\spaceshooter\GamePanel.class
+com\mycompany\spaceshooter\Player.class
+com\mycompany\spaceshooter\SpaceShooter.class
