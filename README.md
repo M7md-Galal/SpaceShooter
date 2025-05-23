@@ -1,4 +1,8 @@
-# 🚀 Space Shooter Game
+<div align="center">
+    
+   # 🚀 Space Shooter Game
+
+</div>
 
 A simple 2D Space Shooter game built using Java Swing. The player controls a spaceship, shoots enemies, and survives as long as possible while the game difficulty increases.
 
@@ -39,11 +43,11 @@ src/
 
 - **Java**
 - **Swing GUI**
-- **NetBeans IDE 21** (you can use IntelliJ or Eclipse too)
+- **NetBeans IDE 21**
 
 ## 🚀 How to Run the Game
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/space-shooter.git
+   git clone https://github.com/M7md-Galal/space-shooter.git
    cd space-shooter
