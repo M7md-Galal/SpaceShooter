@@ -29,7 +29,6 @@ src/
             ├── Bullet.java           # Handles bullets
             └── Enemy.java            # Handles enemy movement
 ```
-
 ## 🌀 Gameplay Preview
 
 <div align="center">
